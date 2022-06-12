@@ -1,0 +1,56 @@
+body {
+  background-color: #524e49;
+  color: #f2f2f2;
+}
+
+h1 {
+  font-family: 'Poller One', sans-serif;
+  font-size: 100px;
+  line-height: 1.4em;
+}
+
+p {
+  font-family: 'Prata', serif;
+  font-size: 40px;
+  line-height: 1.4em;
+}
+
+section {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px 100px;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 60%;
+  width: 800px;
+  height: auto;
+  box-shadow: 0 0 40px rgba(0,0,0,0.4);
+}
+
+.horse {
+  display: flex;
+  justify-content: flex-start;
+  margin: 100px 0;
+}
+
+.horse:nth-child(2n) {
+  justify-content: flex-end;
+}
+
+@media all and (max-width: 800px) {
+  h1 {
+    font-size: 70px;
+  }
+  p {
+    font-size: 30px;
+  }
+  section {
+    padding: 30px 50px;
+  }
+  img {
+    max-width: 80%;
+  }
+}
