@@ -8,4 +8,5 @@ Do you want to add a horse? Please do! And then:
 
 1. <a href="https://github.com/davepagurek/horse-drawings/fork">Fork this repo</a>
 2. Add a horse image to the `img` directory. If possible, make it a JPG sized to fit 900x900
-3. <a href="https://github.com/davepagurek/horse-drawings/compare">Create a PR with your changes</a>
+3. Add the image path to the list in `data.js`
+4. <a href="https://github.com/davepagurek/horse-drawings/compare">Create a PR with your changes</a>
