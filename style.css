@@ -9,6 +9,12 @@ h1 {
   line-height: 1.4em;
 }
 
+h2 {
+  font-family: 'Poller One', sans-serif;
+  font-size: 80px;
+  line-height: 1.4em;
+}
+
 p {
   font-family: 'Prata', serif;
   font-size: 40px;
@@ -40,9 +46,19 @@ img {
   justify-content: flex-end;
 }
 
+a:link, a:active, a:visited {
+  color: #ff42b0;
+}
+a:hover {
+  color: #bf6ef5;
+}
+
 @media all and (max-width: 800px) {
   h1 {
     font-size: 70px;
+  }
+  h2 {
+    font-size: 50px;
   }
   p {
     font-size: 30px;
