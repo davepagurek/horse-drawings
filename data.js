@@ -21,4 +21,5 @@ const images = [
   'img/tom2.jpg',
   'img/yangzi.jpg',
   'img/amir.jpg',
+  'img/rohan.jpg'
 ]
