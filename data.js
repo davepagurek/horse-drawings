@@ -12,6 +12,7 @@ const images = [
   'img/maddy.jpg',
   'img/maddy2.jpg',
   'img/maddy3.jpg',
+  'img/justin.jpg',
   'img/nate.jpg',
   'img/raph.jpg',
   'img/sarah.jpg',
