@@ -26,5 +26,6 @@ const images = [
   'img/jordanne.gif',
   'img/n1ckfg.jpg',
   'img/camerons_horse.jpg',
+  'img/pedro_flores.jpg',
   'img/samir.jpg'
 ]
