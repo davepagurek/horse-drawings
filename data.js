@@ -28,5 +28,6 @@ const images = [
   'img/camerons_horse.jpg',
   'img/pedro_flores.jpg',
   'img/samir.jpg',
-  'img/Winther_88.jpg'
+  'img/Winther_88.jpg',
+  'img/Fonty.png',
 ]
