@@ -8,6 +8,7 @@ const images = [
   'img/cristian2.jpg',
   'img/dave.jpg',
   'img/ena.jpg',
+  'img/jake.jpg',
   'img/lyn.jpg',
   'img/maddy.jpg',
   'img/maddy2.jpg',
