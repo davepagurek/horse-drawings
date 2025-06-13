@@ -1,6 +1,7 @@
 const images = [
   'img/abhishek.jpg',
   'img/ahmad.jpg',
+  'img/Timam.jpg',
   'img/ahmad2.jpg',
   'img/alexei.jpg',
   'img/andrew.jpg',
