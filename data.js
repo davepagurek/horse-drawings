@@ -33,5 +33,5 @@ const images = [
   'img/Winther_88.jpg',
   'img/Fonty.png',
   'img/victor_g.jpg',
-  'img/ksen0.png',
+  'img/ksen0.jpg',
 ]
